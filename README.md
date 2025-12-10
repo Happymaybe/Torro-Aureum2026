@@ -395,7 +395,8 @@
     <!-- HEADER -->
     <header>
       <div class="logo">
-        <div class="logo-circle">🐂</div>
+        <div class="logo-circle"><img width="1024" height="1024" alt="ChatGPT Image 10 déc  2025, 11_25_51" src="https://github.com/user-attachments/assets/44001ab3-70e9-40ce-9a00-1391f929077c" />
+</div>
         <div>
           <div class="logo-text-main">Torro Aureum 2026</div>
           <div class="logo-text-sub">The Golden Bull of Solana · $TA26</div>
